@@ -19,8 +19,7 @@ export default {
     TopHeader
   },
   mounted(){
-
-    if(!this.$store.state.isLoggedOn){alert(this.$store.state.isLoggedOn)
+    if(!this.$store.state.isLoggedOn){
       this.$router.push({name:'login'})
     }
   },

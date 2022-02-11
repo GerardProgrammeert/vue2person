@@ -5,15 +5,6 @@
       "last_name": "Hattem",
       "email": "geradvanhattem@cms4biz.nl",
       "age": "56",
-      "city": "barendrecht12",
-      "zipcode": "4545",
-      "id": 1
-    },
-    {
-      "first_name": "Gered",
-      "last_name": "Hattem",
-      "email": "geradvanhattem@cms4biz.nl",
-      "age": "56",
       "city": "barendrecht",
       "zipcode": "4545",
       "id": 2
@@ -35,6 +26,15 @@
       "city": "ger",
       "zipcode": "5655",
       "id": 4
+    },
+    {
+      "first_name": "Gerard",
+      "last_name": "sda",
+      "email": "gerard@cms4biz.nl",
+      "age": "12",
+      "city": "geera",
+      "zipcode": "45",
+      "id": 5
     }
   ]
 }

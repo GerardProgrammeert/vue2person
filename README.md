@@ -5,20 +5,15 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles
 ```
 npm run serve
+json-server --watch /json_server/db.json
+
+
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+

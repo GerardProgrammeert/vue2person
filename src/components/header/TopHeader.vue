@@ -24,7 +24,6 @@ export default {
   props:{isLoggedOn:Boolean},
   methods:{
     logOut(){
-      this.isLoggedOn = false
       localStorage.removeItem('account')
       this.$store.commit("logOut")
       this.$router.push({name:'Login'})
